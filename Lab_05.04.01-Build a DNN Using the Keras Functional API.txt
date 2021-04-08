@@ -1,6 +1,6 @@
 Build a DNN using the Keras Functional API
 
-Learning objectives:
+Objectives:
 -Review how to read in CSV file data using tf.data
 -Specify input, hidden, and output layers in the DNN architecture
 -Review and visualize the final DNN shape
