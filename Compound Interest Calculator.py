@@ -1,6 +1,6 @@
 #NAME:  Compound Interest Calculator
 #LANGUAGE:  Python
-#CREATED BY: Steven Ahlberg
+#CREATED BY:  Steven Ahlberg
 
 
 #Defining the cpdint() function.
@@ -24,6 +24,3 @@ def cpdint():
         print(f'{n}Your total is: {total}{n}')
         b = b + 1
 
-#Conditional statement which triggers the program.
-if __name__ == '__cpdint__':
-    cpdint()
