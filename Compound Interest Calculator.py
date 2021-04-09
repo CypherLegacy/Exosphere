@@ -20,7 +20,7 @@ def cpdint():
         amt1 = rate / number
         amt2 = time*number
         total = prin*(1+amt1)**amt2
-        print(f'Your total is: {total}')
+        print(f'Your total is: {total}{n}')
         b = b + 1
 
 #Conditional statement which triggers the program.
