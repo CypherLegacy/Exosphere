@@ -170,7 +170,7 @@ Paste existing code into model.py
 A Python package requires our code to be in a .py file, as opposed to notebook cells.
 So, we simply copy and paste our existing code for the previous notebook into a single file.
 
-In the cell below, we write the contents of the cell into model.py packaging the model we developed in the previous labs so that we can deploy it to AI Platform Training Service.
+In the cell below, we write the contents of the cell into model.py packaging the model we developed previously so that we can deploy it to AI Platform Training Service.
 
 %%writefile ./taxifare/trainer/model.py
 # The datetime module used to work with dates as date objects.
