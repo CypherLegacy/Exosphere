@@ -7,12 +7,8 @@ Objectives:
 -Train the model locally and visualize the loss curves
 -Deploy and predict with the model using Cloud AI Platform
 
-In this notebook, we will build a Keras DNN to predict the fare amount for NYC taxi cab rides.
+Build a Keras DNN to predict the fare amount for NYC taxi cab rides.
 
-Each learning objective will correspond to a #TODO in the student lab notebook
--- try to complete that notebook first before reviewing this solution notebook.
-
-# You can use any Python source file as a module by executing an import statement in some other Python source file
 # The import statement combines two operations; it searches for the named module, then it binds the
 # results of that search to a name in the local scope.
 import os, json, math
